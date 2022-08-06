@@ -9,7 +9,7 @@ You can Visit My Webpage on : https://gitansh.me/Tip-Calculator/
 
 **Language:** HTML, CSS, JS, Jquery.
 
-**Tools:** Vs-Code, Sublime Text, Canva, CorelDraw, MS-Paint.
+**IDE/Tools:** VS-Code, Sublime Text, Canva, CorelDraw, MS-Paint.
 
 **Hosting:** Github.
 
