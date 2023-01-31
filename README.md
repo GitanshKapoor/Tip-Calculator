@@ -2,7 +2,7 @@
 
 Developed A Tip Calculator.
 
-You can Visit My Webpage on : https://gitansh.me/Tip-Calculator/
+You can Visit My Webpage on : https://gitansh.tech/Tip-Calculator/
 
 
 ## Tech Stack
